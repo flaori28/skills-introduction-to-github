@@ -13,7 +13,11 @@ var DOCK_APPS = [
   { label: "Prime Video", color: "#0f171e", accent: "#00a8e1",
     match: ["prime video", "amazon"], ids: ["evKhCgZelL.AmazonIgnitionLauncher2", "3201910019365", "3201512006785"] },
   { label: "Disney+",     color: "#0b1a3a", accent: "#2ad1ff",
-    match: ["disney"],                ids: ["MCmYXNxgcu.DisneyPlus", "3201901017640"] }
+    match: ["disney"],                ids: ["MCmYXNxgcu.DisneyPlus", "3201901017640"] },
+  { label: "Free TV",     color: "#1b1b1b", accent: "#cd1e25",
+    match: ["free tv", "freetv", "oqee"], ids: [] },
+  { label: "PlayStation", color: "#00439c", accent: "#ffffff",
+    match: ["playstation"],           ids: [] }
 ];
 
 var WALLPAPERS = [
