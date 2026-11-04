@@ -1,0 +1,17 @@
+Fonds d'écran : photos de Wikimedia Commons, redimensionnées en 1920x1080.
+Auteurs et licence complète sur chaque page source.
+
+nature1.jpg  Mountain lake, Mylgval mountain cirque, Western Caucasus      CC BY 4.0
+             https://commons.wikimedia.org/wiki/File:Mountain_lake,_Mylgval_mountain_cirque,_Western_Caucasus.jpg
+nature2.jpg  Zagedan Lakes, Mountain cirque, Caucasus Mountains            CC BY 4.0
+             https://commons.wikimedia.org/wiki/File:Zagedan_Lakes,_Mountain_cirque,_Caucasus_Mountains.jpg
+nature3.jpg  Sun getting through fog in the New Zealand bush, Bryant Range CC BY-SA 4.0
+             https://commons.wikimedia.org/wiki/File:Sun_getting_through_fog_in_the_New_Zealand_bush,_Bryant_Range.jpg
+nature4.jpg  Mastlé Odles Stevia                                           CC BY-SA 3.0
+             https://commons.wikimedia.org/wiki/File:Mastl%C3%A9_Odles_Stevia.jpg
+nature5.jpg  Sunset at Coal Oil Point (Glenn Beltz)                        CC BY 4.0
+             https://commons.wikimedia.org/wiki/File:Sunset_at_Coal_Oil_Point.jpg
+nature6.jpg  Mountains in snow, Mountain lake, Chola Valley, Nepal          CC BY 4.0
+             https://commons.wikimedia.org/wiki/File:Mountains_in_snow,_Mountain_lake,_Chola_Valley,_Nepal,_Himalayas.jpg
+
+Pour ajouter tes propres photos : copie-les dans img/ et ajoute-les à WALLPAPERS dans apps.js.
